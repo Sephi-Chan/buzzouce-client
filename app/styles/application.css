@@ -1,0 +1,14 @@
+body {
+  padding-bottom: 20px;
+}
+
+
+table td {
+  vertical-align: middle !important;
+}
+
+
+.buzz-button {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
